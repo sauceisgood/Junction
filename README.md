@@ -13,4 +13,4 @@ A Junction Bot which can forward messages from one chat to multiple chats. This 
 
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sauceisgood/Junction/tree/v1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sauceisgood/Junction)
